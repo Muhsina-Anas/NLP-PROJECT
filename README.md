@@ -185,7 +185,9 @@ Fake-Job-Detection/
 Data Science & AI Enthusiast
 
 ---
+## 📸 Application Screenshot
 
+![streamlit App](images/app.png)
 ## ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
